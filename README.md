@@ -141,12 +141,8 @@ Business Insights & Report
 
 **Shravan**
 BCA Student | Data Analytics Enthusiast
-📧 your-email@gmail.com
+📧 chorgeshravan09@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
 🐙 [GitHub](https://github.com/your-username)
 
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
+--
